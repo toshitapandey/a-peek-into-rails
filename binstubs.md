@@ -1,4 +1,4 @@
-### Binstubs & the difference betweenn rails, script/rails, and bin/rails.
+### Binstubs & the difference between rails, script/rails, and bin/rails.
 
 #### What are binstubs? 
 Binstubs are the executable files residing in `bin/` folder of a Rails project. 
